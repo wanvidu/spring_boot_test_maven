@@ -5,6 +5,6 @@ ports:
 - port: 3000
 
 tasks:
-  - before: cd my-app
+  - before: cd spring_boot_test
     init: mvn package
-    command: java -jar 
+    command: java -jar target/*.jar

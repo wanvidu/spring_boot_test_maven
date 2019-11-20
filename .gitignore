@@ -14,5 +14,5 @@ target/*
 !.vscode/launch.json
 !.vscode/extensions.json
 _site/
-spring-boot-test/target
-spring-boot-test/target/*
+spring_boot_test/target
+spring_boot_test/target/*
