@@ -9,3 +9,5 @@ mvn test
 https://maven.apache.org/guides/getting-started/index.html
 
 mvn package && java -jar target/*.jar
+
+mvn dependency:tree
