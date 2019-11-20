@@ -1,0 +1,9 @@
+mvn archetype:generate
+
+mvn compile
+
+mvn package
+
+mvn test
+
+https://maven.apache.org/guides/getting-started/index.html
